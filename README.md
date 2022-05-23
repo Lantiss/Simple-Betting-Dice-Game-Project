@@ -1,4 +1,4 @@
-# ANCIENT GAMES Project
+# Simple Dice Game Project
 
 To setup the project, complete the steps detailed below.
 
